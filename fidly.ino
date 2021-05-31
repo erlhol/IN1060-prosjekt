@@ -88,7 +88,6 @@ void vennHarRistet() {
 }
 
 void duHarRistet() {
-      // hvis bare du har ristet: kun vibrasjon
       pixels.clear();
       int styrke = 255;
       for(int i=0; i<antPixler; i++) {
